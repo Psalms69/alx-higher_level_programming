@@ -8,4 +8,4 @@ def uppercase(str):
             result = char
             break
         result = result + " "
-        print("{:s}".format(result," "), end = "")
+        print("{:1s}".format(result," "), end = "")
