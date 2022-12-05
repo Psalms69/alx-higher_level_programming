@@ -6,5 +6,3 @@ def element_at(my_list, idx):
             return none
         elif (idx > i):
             return none
-        else:
-            continue
